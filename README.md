@@ -1,4 +1,4 @@
-# Project Portfolio
+# Projects Portfolio
 
 - [Dynamic Supply Chain Intelligence Power BI Dashboard](https://github.com/WPrendota/Power_BI_Dynamic_Supply_Chain_Intelligence_Dashboard)
 
