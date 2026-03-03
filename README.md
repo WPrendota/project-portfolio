@@ -1,5 +1,5 @@
 # Project Portfolio
-A collection of personal engineering projects, experiments, and technical explorations.
+A collection of projects.
 
 - [Dynamic Supply Chain Intelligence Power BI Dashboard](https://github.com/WPrendota/Power_BI_Dynamic_Supply_Chain_Intelligence_Dashboard)
 
